@@ -1,0 +1,171 @@
+body {
+  margin: 0px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  background-color: white;
+}
+
+h1 {
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacremento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 20px;
+  color: #66BFBF;
+  font-weight: normal;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  color: #19A7CE;
+  border: solid;
+  border-color: #ECF2FF;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+img {
+  position: relative;
+  left: 0px;
+}
+
+.Top {
+  padding: 200px;
+  margin: 0px;
+  background-color: #EEE3CB;
+}
+
+
+
+.bottom-container {
+  background-color: #EEE3CB;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: fixed;
+  top: 450px;
+  left: 600px;
+}
+
+.top-cloud {
+  position: fixed;
+  top: 400px;
+  left: 1200px;
+}
+
+.profile-pic {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 75px;
+}
+
+p {
+  text-align: center;
+  line-height: 2;
+}
+
+.Sec {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.AWS {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.programmer {
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999e;
+}
+
+a {
+  color: #11999e;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  border: dotted #66BFBF 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px, auto;
+}
+
+a {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 10px auto 100px auto;
+  text-align: center;
+  line-height: 2;
+  justify-content: flex-start;
+}
+
+.portfolio-photos {
+  margin-bottom: 100px;
+  margin-top: 50px;
+  width: 60%;
+  height: 60%;
+  border: solid;
+  border-color: black;
+  text-align: center;
+}
+
+.codelink {
+  margin: auto;
+  text-align: center;
+  color: orange;
+}
+
+/* contact me form*/
+
+form {
+  /* Center the form on the page */
+  margin: 0 auto;
+  width: 400px;
+  /* Form outline */
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+ 
+}
